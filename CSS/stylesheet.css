@@ -1,0 +1,164 @@
+body {
+    background-image: url("../IMAGES/Farm_Background_2.jpg");
+    background-size: cover;
+}
+
+#mainPageContainer {
+    display: flex;
+}
+
+#topText {
+    height: 50px;
+    width: 750px;
+    margin: 0 auto;
+    font-size: 40px;
+    font-family: "Permanent Marker";
+    text-align: center;
+}
+
+#topText2 {
+    height: 100px;
+    width: 750px;
+    background-color: indianred;
+    border-radius: 10px;
+    margin: 5px auto 10px auto;
+    font-size: 30px;
+    font-family: "Permanent Marker";
+    text-align: center;
+}
+#scoreContainer {
+    width: 25%;
+    height: 650px;
+}
+
+#rightContainer {
+    width: 25%;
+}
+
+.score {
+    font-size: 25px;
+    font-family: "Permanent Marker";
+    padding: 5px;
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+#farmerDude {
+    height: 100%;
+    width: 100%;
+    margin-left: 50px;
+    background-image: url("../IMAGES/FarmerA.png");
+    background-repeat: no-repeat;
+}
+
+#newGameButton {
+    font-size: 25px;
+    font-family: "Baloo Bhai";
+    border-radius: 8px;
+    background-color: green;
+    color: white;
+    outline: none;
+}
+
+.rules {
+    font-size: 25px;
+    font-family: "Permanent Marker";
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 10px 5px black;
+}
+
+#mainContainer {
+    width: 950px;
+    height: 725px;
+    background-color: indianred;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    border: 15px solid indianred;
+    border-radius: 10px;
+}
+
+.correct {
+    background-color: green;
+    opacity: 50%;
+}
+
+.flip-card {
+    background-color: transparent;
+    margin: 5px;
+    flex: 1 1 200px;
+    perspective: 1000px;
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.flip-card-inner-hover {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+}
+
+.flip-card-front {
+    background-color: #bbb;
+    color: black;
+}
+
+.flip-card-back {
+    transform: rotateY(180deg);
+}
+.footer{
+    width: 100%;
+}
+#credits {
+    padding-top:10px;
+    text-align: center;
+    list-style: none;
+}
+#credits a {
+    text-decoration: none;
+}
+
+.modal {
+    border-radius: 10px;
+    display: none;
+    height: 33%;
+    width: 33%;
+    position: fixed;
+    z-index: 5;
+    background-color: indianred;
+    padding-top: 100px;
+    left: 33%;
+    top: 33%;
+}
+
+#modalContent {
+    text-align: center;
+    font-family: "Permanent Marker";
+    font-size: 2em;
+}
+
+#tryAgainButton {
+    font-size: 1.5em;
+    font-family: "Permanent Marker";
+    background-color: green;
+}
+
+#buttonAlignDiv {
+    text-align: center;
+    margin-top: 5%;
+}
