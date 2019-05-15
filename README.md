@@ -6,9 +6,13 @@
   
   All sound effects were imported from freesound.org, and all images were downloaded from freepik.com, and pngtree.com.
   
-  farm background image: www.freepik.com/free-photos-vectors/treeTree vector created by ddraw;
-  fox image: www.freepik.com/free-photos-vectors/winter Winter vector created by freepik
-  farmer image: www.freepik.com/free-photos-vectors/business Business vector created by macrovector
-  vegetables images: Graphics Designed By pngtree from pngtree.com/freepng/vector-different-healthy-foods_2031348.html 
+   farm background image: www.freepik.com/free-photos-vectors/treeTree vector created by ddraw;
+  
+   fox image: www.freepik.com/free-photos-vectors/winter Winter vector created by freepik
+  
+   farmer image: www.freepik.com/free-photos-vectors/business Business vector created by macrovector
+  
+   vegetables images: Graphics Designed By pngtree from pngtree.com/freepng/vector-different-healthy-foods_2031348.html 
+  
   
   The fonts at the top and the right of the page, were made in photoshop.
