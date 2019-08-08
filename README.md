@@ -1,4 +1,4 @@
-  A match two card game for children. Includes sound effects, and animations (imported from animate.css). The game includes a score counter that gives a score of 1, for each set flipped; and a attempts counter, which keeps track of the amount of turns you took to flip all of the cards. The entire game is made is vanilla javascript, css and html.
+  A match two card game for children. Includes sound effects, and animations (imported from animate.css). The game includes a score counter that gives a score of 1, for each set flipped; and an attempts counter, which keeps track of the amount of turns you took to flip all of the cards. The entire game is made in vanilla javascript, css and html.
 
   A Fisher-Yates shuffle is used to randomly shuffle the card backfaces, when the new game button is clicked. Once all cards are matched, a model pop's up with a new game button as well.
   
